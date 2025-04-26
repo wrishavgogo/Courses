@@ -7,3 +7,11 @@ Big Data problem , involves solving 3 main problems
 1. Variety --> industry produces variety of data and we might want proper classification of these
 2. Volume --> industry produces very high volume of data into the industry like PB of data very easily 
 3. Velocity ---> The high velocity with which data is produced , like it fills PBs of data in the DB very fast 
+
+
+
+Hadoop gives us 3 main things 
+
+1. YARN -> this is cluster operating system ( managing CPU , schedulers , making the cluster seem like a single machine ) 
+2. HDFS -> distributed file system 
+3. MAP/REDUCE -> distributed computing ( we learnt abt this in our Designing Data Intensive Applications) 
