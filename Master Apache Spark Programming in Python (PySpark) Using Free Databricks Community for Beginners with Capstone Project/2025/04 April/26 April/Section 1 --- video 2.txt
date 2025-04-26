@@ -1,0 +1,6 @@
+
+Big Data problem , involves solving 3 main problems
+
+1. Category --> industry produces variety of data and we might want proper classification of these
+2. Volume --> industry produces very high volume of data into the industry like PB of data very easily 
+3. Velocity ---> The high velocity with which data is produced , like it fills PBs of data in the DB very fast 
